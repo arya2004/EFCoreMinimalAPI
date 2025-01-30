@@ -8,7 +8,7 @@ A **.NET 8 Minimal API** template with **Entity Framework Core (EF Core)**, **Id
 [![Minimal API](https://img.shields.io/badge/Minimal%20API-Supported-orange)](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis)  
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)  
 
----
+
 
 ## **🚀 Features**
 ✅ **.NET 8 Minimal API**  
@@ -18,9 +18,7 @@ A **.NET 8 Minimal API** template with **Entity Framework Core (EF Core)**, **Id
 ✅ **Dependency Injection for Clean Architecture**  
 ✅ **Swagger UI for API Documentation**  
 
----
 
----
 
 ## **📦 Installation**
 1️⃣ **Clone the repository**  
@@ -51,8 +49,7 @@ dotnet ef database update
 dotnet run
 ```
 
----
----
+
 
 ## **🔗 Connection String**
 - Update your `appsettings.json` file with your SQL Server connection string:
@@ -62,7 +59,6 @@ dotnet run
 }
 ```
 
----
 
 ## **🎯 Using this as a Template?**
 1. Click on **"Use this template"** on GitHub.  
@@ -70,12 +66,11 @@ dotnet run
 3. Update the project name in `EFCoreMinimalAPI.csproj`  
 4. Run the setup commands above.  
 
----
+
 
 ## **📝 License**
 This project is licensed under the **MIT License** – see the [`LICENSE`](LICENSE) file for details.  
 
----
 
 
 ## **💡 Need Help?**
